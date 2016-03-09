@@ -1,0 +1,28 @@
+name: allterraincommunication
+favicon: null
+layout_spectrum: 0.6308954821433872
+typography_spectrum: 0.31102839088998735
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.4424909942317754
+  lightness: 0.699616322061047
+  saturation: 0.1970183232333511
+  rhythmicContrast: 0.08983178669586778
+purpose: []
